@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
+<h1 align="center">Hi 👋 I'm Nandini Sharma</h1>
 <h3 align="center">A passionate CSE student by day, coding wizard by night.</h3>
 
 <image align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ0OHVscnVzNDMwcnB6emtlemp2Zjlmc2xydWF3dmt5ZTlxNDJ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
