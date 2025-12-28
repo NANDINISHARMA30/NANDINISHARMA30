@@ -9,7 +9,7 @@
 
  <li>📫 How to reach me: nandiniisharma2005@gmail.com</li>
 
- <li>⚡ Fun fact: I once tried to Ctrl+Z a mistake in real life</li>
+ <li>⚡ Fun fact: I once tried to Ctrl+Z a mistake in real life.</li>
  </ul>
 
 <h3 align="left">Connect with me:</h3>
