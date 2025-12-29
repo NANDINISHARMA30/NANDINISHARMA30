@@ -72,16 +72,6 @@ I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast
 </p>
 
 
-<h2 align="center">💼 Currently Building</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-GPT4|Mistral|Claude-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agents-VAPI%20%7C%20Langchain-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Workflows-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-MCP%20%7C%20AWS%20%7C%20Docker-lightgrey?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Agency-AstraFlow-red?style=for-the-badge" />
-</p>
-
 ---
 
 
