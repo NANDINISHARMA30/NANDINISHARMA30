@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 </h1>
 
 <h4 align="left">
 I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast, and Open Source Contributor. Currently in my pre-final year, I'm exploring the dynamic intersection of full-stack engineering and AI/ML.
@@ -17,11 +17,8 @@ I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast
 
 ### 🚀 What I Do
 
--   👨‍💻 **Full-Stack Development**: Building scalable apps with **MERN**, **TailwindCSS**, **Appwrite**, **Firebase**, and more.
--   🤖 **AI/ML & Computer Vision**: Projects involving **YOLO**, **OpenCV**, **TensorFlow**, **PyTorch**, **RAG**, and **n8n**.
--   🌐 **Cloud & Automation**: Deployments, migrations, and workflows using **AWS**, **MCP**, **Docker**, and **CI/CD** tools.
--   💻 **Data Structures & Algorithms**: Solved **800+ LeetCode problems**.
--   🛠️ **Hackathons & Projects**: Winner and finalist at **LexHack**, **Tech Arena**, **Project Showcase**, **BITS Hackathon**, **Hack2Hustle**, and more.
+-   👨‍💻 **Full-Stack Development**: Building scalable apps with **MERN**, **TailwindCSS**, **Firebase**, and more.
+-   🤖 **AI/ML & Computer Vision**: Projects involving **YOLO**, **OpenCV**, **TensorFlow**, **PyTorch**
 
 ---
 
@@ -51,10 +48,10 @@ I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhalansh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinisharma30&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=singhalansh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhalansh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisharma30&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisharma30&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -62,7 +59,7 @@ I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhalansh&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandinisharma30&theme=react-dark" />
 </p>
 
 ---
@@ -70,7 +67,7 @@ I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   
-<img src="https://raw.githubusercontent.com/singhalansh/singhalansh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nandinisharma30/nandinisharma30/output/snake.svg" alt="Snake animation" />
 
 </p>
 
