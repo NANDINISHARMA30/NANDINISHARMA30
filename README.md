@@ -90,7 +90,6 @@ I'm <strong>Nandini Sharma</strong>, an AI Explorer, Machine Learning Enthusiast
 
 <p align="center">
   <strong>Let’s connect and build something awesome together!</strong> <br>
-  <a href="https://anshsinghal.vercel.app" target="_blank">🌍 Portfolio</a> •
-  <a href="https://github.com/singhalansh" target="_blank">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/anshsinghal2005" target="_blank">🔗 LinkedIn</a>
+  <a href="https://github.com/NANDINISHARMA30" target="_blank">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/nandini-sharma-92701a282/" target="_blank">🔗 LinkedIn</a>
 </p>
